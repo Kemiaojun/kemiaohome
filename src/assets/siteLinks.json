@@ -1,37 +1,62 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "第一博客",
+    "link": "https://Kemiaosw.top/"
+  },
+  {
+    "icon": "Blogger",
+    "name": "第二博客",
+    "link": "https://Kemiaoshiwo.top/"
+  },
+  {
+    "icon": "Microblog",
+    "name": "第三博客",
+    "link": "https://www.314926.xyz/"
+  },
+  {
+    "icon": "BloggerB",
+    "name": "第四博客",
+    "link": "https://Kemiaojun.github.io/"
+  },
+  {
+    "icon": "Blog",
+    "name": "电报频道",
+    "link": "https://kemiaofx.top/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://share.feijipan.com/s/FQDHZYsk"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "FileExcel",
+    "name": "Excel",
+    "link": "https://kdocs.cn/l/cesQMkm6QxNc"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "Github",
+    "name": "GitHub项目",
+    "link": "https://github.com/Kemiaojun/kemiaofx"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "GitSquare",
+    "name": "Gitee项目",
+    "link": "https://gitee.com/kemiaoshiwo/kemiaodfx"
+  },
+  {
+    "icon": "TelegramPlane",
+    "name": "telegram频道",
+    "link": "https://t.me/kemiaofx_me"
+  },
+  {
+    "icon": "GitSquare",
+    "name": "telegram群组",
+    "link": "https://t.me/+x3Cysfgpqh84ZmY1"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
   }
 ]
