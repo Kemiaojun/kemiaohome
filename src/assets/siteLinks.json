@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "第一博客",
-    "link": "https://Kemiaosw.top/"
+    "link": "https://kemiaosw.top/"
   },
   {
     "icon": "Blogger",
@@ -23,6 +23,11 @@
     "icon": "BloggerB",
     "name": "第五博客",
     "link": "https://lumianya.github.io/"
+  },
+  {
+    "icon": "BloggerB",
+    "name": "第六博客（主）",
+    "link": "https://www.261770.xyz/"
   },
   {
     "icon": "Blog",
